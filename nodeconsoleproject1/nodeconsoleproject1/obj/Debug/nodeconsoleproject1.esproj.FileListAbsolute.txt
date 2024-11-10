@@ -1,0 +1,2 @@
+D:\nodejs_projects\nodeconsoleproject1\nodeconsoleproject1\obj\Debug\nodeconsoleproject1.esproj.SuggestedBindingRedirects.cache
+D:\nodejs_projects\nodeconsoleproject1\nodeconsoleproject1\obj\Debug\nodeconsoleproject1.esproj.CoreCompileInputs.cache
